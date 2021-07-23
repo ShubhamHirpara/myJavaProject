@@ -9,6 +9,7 @@ public class ManagePersons {
         p1.setBirthDate();
         System.out.println("Your Birthdate is "+p1.getBirthdate());
         System.out.println("Your age is " + p1.getAge());
+        System.out.println("Hello");
 
     }
 }
